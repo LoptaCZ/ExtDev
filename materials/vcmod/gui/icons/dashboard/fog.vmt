@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vcmod/gui/icons/dashboard/fog"
+	"$translucent" 1
+}

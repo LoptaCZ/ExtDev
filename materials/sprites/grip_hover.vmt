@@ -1,0 +1,34 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"sprites/grip_hover"
+	"$ignorez"			"1"
+	"$vertexcolor"		"1"
+	"$vertexalpha"		"1"
+	"$alphatest"		"0"
+	"$nolod"			"1"
+
+	"$phong" "1"
+	"$phongtint" "[0.9 0.8 0.7]"
+	"$phongboost" "0.8"
+	"$phongexponent" "6"
+	"$phongfresnelranges" "[0.3 0.6 1]"
+
+	"$rimlight" "0"
+	"$selfillum" "1"
+
+	// "$selfillumtint" "[0.3 1.8 2.1]" // Default
+	"$selfillumtint" "[1 1 1]"
+
+	proxies
+	{
+		sine
+		{
+			sineperiod "1"
+			minVal "0"
+			maxVal "1"
+			timeoffset "1"
+			resultVar	"$alpha"
+		}
+
+	}
+}

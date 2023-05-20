@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"end\tend"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "shared.lua",
+			"settings":
+			{
+				"buffer_size": 3195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ACF Missiles/lua/entities/acf_missileradar/shared.lua",
+			"settings":
+			{
+				"buffer_size": 591,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/entities"
+	],
+	"file_history":
+	[
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ACF/lua/weapons/torch/shared.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/weapons/acf_xm25/shared.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ACF Missiles/lua/entities/acf_missileradar/shared.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ACF Missiles/lua/entities/acf_missileradar/init.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/init.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/entities/jason1.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/autorun/client/cl_servermenu.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/autorun/client/cl_scoreboard.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/autorun/client/cl_nadavkymenu.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/autorun/client/cl_modelshower.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/autorun/client/cl_hud.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/weapons/acf_sniper/shared.lua",
+		"/D/Minecraft/FTB/FTBInfinity/minecraft/saves/World/computer/4/startup",
+		"/D/Minecraft/FTB/FTBInfinity/minecraft/saves/World/computer/5/startup",
+		"/D/Minecraft/FTB/FTBInfinity/minecraft/modpack/normal/scripts/InfinityPackWideChanges.zs",
+		"/G/MC/server.properties",
+		"/G/MC/eula.txt",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ExtremeDevelopement/lua/autorun/init.lua",
+		"/D/Steam/steamapps/common/GarrysMod/garrysmod/data/expression2/R4V3-P4R7Y/Rave_Cube.txt",
+		"/C/Users/Lukáš/AppData/Local/Discord/app-0.0.297/resources/bootstrap/manifest.json",
+		"/C/Users/Lukáš/AppData/Local/Discord/app-0.0.297/resources/electron.asar",
+		"/C/Users/Lukáš/AppData/Local/Discord/app-0.0.297/content_shell.pak",
+		"/C/Users/Lukáš/AppData/Local/Discord/app-0.0.297/resources/app.asar"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "shared.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sublime-GLua-Highlight-master/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Steam/steamapps/common/GarrysMod/garrysmod/addons/ACF Missiles/lua/entities/acf_missileradar/shared.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sublime-GLua-Highlight-master/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/D/Program Files (x86)/Sublime Text 3/Projects/GMod2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

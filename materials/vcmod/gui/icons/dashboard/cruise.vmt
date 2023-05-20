@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vcmod/gui/icons/dashboard/cruise"
+	"$translucent" 1
+}

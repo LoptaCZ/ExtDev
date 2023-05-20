@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/Weapon_box_bigammo"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,2 @@
+--general
+--E2Helper.Descriptions["acfIsEngine"] = "Returns 1 if the entity is an ACF engine."

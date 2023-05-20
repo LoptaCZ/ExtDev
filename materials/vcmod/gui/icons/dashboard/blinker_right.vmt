@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vcmod/gui/icons/dashboard/blinker_right"
+	"$translucent" 1
+}

@@ -1,0 +1,20 @@
+"patch"
+{
+
+	"include" "materials/models/survivors/survivors_it_shared.vmt"
+
+	"insert"
+{
+
+	$basetexture "mod/haru/PC_A_EQ_Default_Costume"
+    "$bumpmap" "mod/haru/normal"
+	"$lightwarptexture" "mod/haru/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+}

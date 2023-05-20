@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGui/entities/sim_fphys_k29"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
